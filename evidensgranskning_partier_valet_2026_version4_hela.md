@@ -615,4 +615,3 @@ Forsknings- och myndighetskällor används för effektbedömning. Partikällor a
 
 ---
 
-**SLUT PÅ RAPPORTEN**
