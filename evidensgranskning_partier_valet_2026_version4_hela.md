@@ -7,10 +7,7 @@
 **7 september 2026**
 
 
-> **GitHub-version:** Diagrammen ligger i mappen `assets/`. 
-
-
-Version 3.0 ersätter Version 2.0. Den viktigaste ändringen är skolanalysen: betyg behandlas nu som både kunskapsmått, kvalitetssignal och konkurrensinstrument. För vinstdrivande friskolor finns dessutom en direkt ekonomisk kedja från fler elever till större intäkter och potentiell vinst. Detta kopplas till svensk forskning om extern provrättning, betygssättning i for-profit-skolor och prestation på högskolan.
+Version 4.0 ersätter Version 3.0. 
 
 ---
 
