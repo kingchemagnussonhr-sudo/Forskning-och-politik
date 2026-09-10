@@ -1,0 +1,33 @@
+﻿parti,område,ursprungligt_band,poäng,rapportavsnitt,vikt,viktat_bidrag_till_0_4,total_poäng_16,index_procent,index_procent_redovisat
+Miljöpartiet,Skola,Stark,4.0,3.7,0.25,1.0,15.5,96.875,96.9
+Miljöpartiet,Sjukvård,Stark,4.0,4.5,0.25,1.0,15.5,96.875,96.9
+Miljöpartiet,Brott,Stark/god,3.5,5.2,0.25,0.875,15.5,96.875,96.9
+Miljöpartiet,Klimat och energi,Stark,4.0,6.3,0.25,1.0,15.5,96.875,96.9
+Socialdemokraterna,Skola,Stark,4.0,3.7,0.25,1.0,14.5,90.625,90.6
+Socialdemokraterna,Sjukvård,God–stark,3.5,4.5,0.25,0.875,14.5,90.625,90.6
+Socialdemokraterna,Brott,God,3.0,5.2,0.25,0.75,14.5,90.625,90.6
+Socialdemokraterna,Klimat och energi,Stark,4.0,6.3,0.25,1.0,14.5,90.625,90.6
+Vänsterpartiet,Skola,Stark,4.0,3.7,0.25,1.0,14.0,87.5,87.5
+Vänsterpartiet,Sjukvård,Stark,4.0,4.5,0.25,1.0,14.0,87.5,87.5
+Vänsterpartiet,Brott,God,3.0,5.2,0.25,0.75,14.0,87.5,87.5
+Vänsterpartiet,Klimat och energi,God,3.0,6.3,0.25,0.75,14.0,87.5,87.5
+Centerpartiet,Skola,God/blandad,2.5,3.7,0.25,0.625,13.5,84.375,84.4
+Centerpartiet,Sjukvård,God,3.0,4.5,0.25,0.75,13.5,84.375,84.4
+Centerpartiet,Brott,Stark,4.0,5.2,0.25,1.0,13.5,84.375,84.4
+Centerpartiet,Klimat och energi,Stark,4.0,6.3,0.25,1.0,13.5,84.375,84.4
+Liberalerna,Skola,God–stark,3.5,3.7,0.25,0.875,11.5,71.875,71.9
+Liberalerna,Sjukvård,God,3.0,4.5,0.25,0.75,11.5,71.875,71.9
+Liberalerna,Brott,Blandad,2.0,5.2,0.25,0.5,11.5,71.875,71.9
+Liberalerna,Klimat och energi,God,3.0,6.3,0.25,0.75,11.5,71.875,71.9
+Moderaterna,Skola,Blandad,2.0,3.7,0.25,0.5,7.5,46.875,46.9
+Moderaterna,Sjukvård,Blandad–svag,1.5,4.5,0.25,0.375,7.5,46.875,46.9
+Moderaterna,Brott,Blandad,2.0,5.2,0.25,0.5,7.5,46.875,46.9
+Moderaterna,Klimat och energi,Blandad,2.0,6.3,0.25,0.5,7.5,46.875,46.9
+Kristdemokraterna,Skola,Blandad–svag,1.5,3.7,0.25,0.375,7.5,46.875,46.9
+Kristdemokraterna,Sjukvård,Blandad,2.0,4.5,0.25,0.5,7.5,46.875,46.9
+Kristdemokraterna,Brott,Blandad,2.0,5.2,0.25,0.5,7.5,46.875,46.9
+Kristdemokraterna,Klimat och energi,Blandad,2.0,6.3,0.25,0.5,7.5,46.875,46.9
+Sverigedemokraterna,Skola,Svagare,1.0,3.7,0.25,0.25,4.0,25.0,25.0
+Sverigedemokraterna,Sjukvård,Svagare,1.0,4.5,0.25,0.25,4.0,25.0,25.0
+Sverigedemokraterna,Brott,Svag,1.0,5.2,0.25,0.25,4.0,25.0,25.0
+Sverigedemokraterna,Klimat och energi,Svag,1.0,6.3,0.25,0.25,4.0,25.0,25.0

@@ -1,0 +1,65 @@
+﻿analyslager,scenario,parti,skola_poäng,vård_poäng,brott_poäng,klimat_poäng,skola_vikt,vård_vikt,brott_vikt,klimat_vikt,oavrundat_index,redovisat_index
+8.1 viktkänslighet,Lika vikt,Miljöpartiet,4.0,4.0,3.5,4.0,0.25,0.25,0.25,0.25,96.875,96.9
+8.1 viktkänslighet,Skola 55,Miljöpartiet,4.0,4.0,3.5,4.0,0.55,0.15,0.15,0.15,98.125,98.1
+8.1 viktkänslighet,Vård 55,Miljöpartiet,4.0,4.0,3.5,4.0,0.15,0.55,0.15,0.15,98.125,98.1
+8.1 viktkänslighet,Brott 55,Miljöpartiet,4.0,4.0,3.5,4.0,0.15,0.15,0.55,0.15,93.125,93.1
+8.1 viktkänslighet,Klimat 55,Miljöpartiet,4.0,4.0,3.5,4.0,0.15,0.15,0.15,0.55,98.125,98.1
+8.1 viktkänslighet,Lika vikt,Socialdemokraterna,4.0,3.5,3.0,4.0,0.25,0.25,0.25,0.25,90.625,90.6
+8.1 viktkänslighet,Skola 55,Socialdemokraterna,4.0,3.5,3.0,4.0,0.55,0.15,0.15,0.15,94.37500000000001,94.4
+8.1 viktkänslighet,Vård 55,Socialdemokraterna,4.0,3.5,3.0,4.0,0.15,0.55,0.15,0.15,89.375,89.4
+8.1 viktkänslighet,Brott 55,Socialdemokraterna,4.0,3.5,3.0,4.0,0.15,0.15,0.55,0.15,84.375,84.4
+8.1 viktkänslighet,Klimat 55,Socialdemokraterna,4.0,3.5,3.0,4.0,0.15,0.15,0.15,0.55,94.37500000000001,94.4
+8.1 viktkänslighet,Lika vikt,Vänsterpartiet,4.0,4.0,3.0,3.0,0.25,0.25,0.25,0.25,87.5,87.5
+8.1 viktkänslighet,Skola 55,Vänsterpartiet,4.0,4.0,3.0,3.0,0.55,0.15,0.15,0.15,92.5,92.5
+8.1 viktkänslighet,Vård 55,Vänsterpartiet,4.0,4.0,3.0,3.0,0.15,0.55,0.15,0.15,92.5,92.5
+8.1 viktkänslighet,Brott 55,Vänsterpartiet,4.0,4.0,3.0,3.0,0.15,0.15,0.55,0.15,82.5,82.5
+8.1 viktkänslighet,Klimat 55,Vänsterpartiet,4.0,4.0,3.0,3.0,0.15,0.15,0.15,0.55,82.5,82.5
+8.1 viktkänslighet,Lika vikt,Centerpartiet,2.5,3.0,4.0,4.0,0.25,0.25,0.25,0.25,84.375,84.4
+8.1 viktkänslighet,Skola 55,Centerpartiet,2.5,3.0,4.0,4.0,0.55,0.15,0.15,0.15,75.625,75.6
+8.1 viktkänslighet,Vård 55,Centerpartiet,2.5,3.0,4.0,4.0,0.15,0.55,0.15,0.15,80.625,80.6
+8.1 viktkänslighet,Brott 55,Centerpartiet,2.5,3.0,4.0,4.0,0.15,0.15,0.55,0.15,90.625,90.6
+8.1 viktkänslighet,Klimat 55,Centerpartiet,2.5,3.0,4.0,4.0,0.15,0.15,0.15,0.55,90.625,90.6
+8.1 viktkänslighet,Lika vikt,Liberalerna,3.5,3.0,2.0,3.0,0.25,0.25,0.25,0.25,71.875,71.9
+8.1 viktkänslighet,Skola 55,Liberalerna,3.5,3.0,2.0,3.0,0.55,0.15,0.15,0.15,78.125,78.1
+8.1 viktkänslighet,Vård 55,Liberalerna,3.5,3.0,2.0,3.0,0.15,0.55,0.15,0.15,73.125,73.1
+8.1 viktkänslighet,Brott 55,Liberalerna,3.5,3.0,2.0,3.0,0.15,0.15,0.55,0.15,63.125,63.1
+8.1 viktkänslighet,Klimat 55,Liberalerna,3.5,3.0,2.0,3.0,0.15,0.15,0.15,0.55,73.125,73.1
+8.1 viktkänslighet,Lika vikt,Moderaterna,2.0,1.5,2.0,2.0,0.25,0.25,0.25,0.25,46.875,46.9
+8.1 viktkänslighet,Skola 55,Moderaterna,2.0,1.5,2.0,2.0,0.55,0.15,0.15,0.15,48.125,48.1
+8.1 viktkänslighet,Vård 55,Moderaterna,2.0,1.5,2.0,2.0,0.15,0.55,0.15,0.15,43.125,43.1
+8.1 viktkänslighet,Brott 55,Moderaterna,2.0,1.5,2.0,2.0,0.15,0.15,0.55,0.15,48.125,48.1
+8.1 viktkänslighet,Klimat 55,Moderaterna,2.0,1.5,2.0,2.0,0.15,0.15,0.15,0.55,48.125,48.1
+8.1 viktkänslighet,Lika vikt,Kristdemokraterna,1.5,2.0,2.0,2.0,0.25,0.25,0.25,0.25,46.875,46.9
+8.1 viktkänslighet,Skola 55,Kristdemokraterna,1.5,2.0,2.0,2.0,0.55,0.15,0.15,0.15,43.125,43.1
+8.1 viktkänslighet,Vård 55,Kristdemokraterna,1.5,2.0,2.0,2.0,0.15,0.55,0.15,0.15,48.125,48.1
+8.1 viktkänslighet,Brott 55,Kristdemokraterna,1.5,2.0,2.0,2.0,0.15,0.15,0.55,0.15,48.125,48.1
+8.1 viktkänslighet,Klimat 55,Kristdemokraterna,1.5,2.0,2.0,2.0,0.15,0.15,0.15,0.55,48.125,48.1
+8.1 viktkänslighet,Lika vikt,Sverigedemokraterna,1.0,1.0,1.0,1.0,0.25,0.25,0.25,0.25,25.0,25.0
+8.1 viktkänslighet,Skola 55,Sverigedemokraterna,1.0,1.0,1.0,1.0,0.55,0.15,0.15,0.15,25.0,25.0
+8.1 viktkänslighet,Vård 55,Sverigedemokraterna,1.0,1.0,1.0,1.0,0.15,0.55,0.15,0.15,25.0,25.0
+8.1 viktkänslighet,Brott 55,Sverigedemokraterna,1.0,1.0,1.0,1.0,0.15,0.15,0.55,0.15,25.0,25.0
+8.1 viktkänslighet,Klimat 55,Sverigedemokraterna,1.0,1.0,1.0,1.0,0.15,0.15,0.15,0.55,25.0,25.0
+8.2 kodningskänslighet,4→1 bas,Miljöpartiet,4.0,4.0,3.5,4.0,0.25,0.25,0.25,0.25,96.875,96.9
+8.2 kodningskänslighet,3→0 linjär,Miljöpartiet,3.0,3.0,2.5,3.0,0.25,0.25,0.25,0.25,95.83333333333334,95.8
+8.2 kodningskänslighet,Konvex,Miljöpartiet,4.0,4.0,3.0625,4.0,0.25,0.25,0.25,0.25,94.140625,94.1
+8.2 kodningskänslighet,4→1 bas,Socialdemokraterna,4.0,3.5,3.0,4.0,0.25,0.25,0.25,0.25,90.625,90.6
+8.2 kodningskänslighet,3→0 linjär,Socialdemokraterna,3.0,2.5,2.0,3.0,0.25,0.25,0.25,0.25,87.5,87.5
+8.2 kodningskänslighet,Konvex,Socialdemokraterna,4.0,3.0625,2.25,4.0,0.25,0.25,0.25,0.25,83.203125,83.2
+8.2 kodningskänslighet,4→1 bas,Vänsterpartiet,4.0,4.0,3.0,3.0,0.25,0.25,0.25,0.25,87.5,87.5
+8.2 kodningskänslighet,3→0 linjär,Vänsterpartiet,3.0,3.0,2.0,2.0,0.25,0.25,0.25,0.25,83.33333333333334,83.3
+8.2 kodningskänslighet,Konvex,Vänsterpartiet,4.0,4.0,2.25,2.25,0.25,0.25,0.25,0.25,78.125,78.1
+8.2 kodningskänslighet,4→1 bas,Centerpartiet,2.5,3.0,4.0,4.0,0.25,0.25,0.25,0.25,84.375,84.4
+8.2 kodningskänslighet,3→0 linjär,Centerpartiet,1.5,2.0,3.0,3.0,0.25,0.25,0.25,0.25,79.16666666666666,79.2
+8.2 kodningskänslighet,Konvex,Centerpartiet,1.5625,2.25,4.0,4.0,0.25,0.25,0.25,0.25,73.828125,73.8
+8.2 kodningskänslighet,4→1 bas,Liberalerna,3.5,3.0,2.0,3.0,0.25,0.25,0.25,0.25,71.875,71.9
+8.2 kodningskänslighet,3→0 linjär,Liberalerna,2.5,2.0,1.0,2.0,0.25,0.25,0.25,0.25,62.5,62.5
+8.2 kodningskänslighet,Konvex,Liberalerna,3.0625,2.25,1.0,2.25,0.25,0.25,0.25,0.25,53.515625,53.5
+8.2 kodningskänslighet,4→1 bas,Moderaterna,2.0,1.5,2.0,2.0,0.25,0.25,0.25,0.25,46.875,46.9
+8.2 kodningskänslighet,3→0 linjär,Moderaterna,1.0,0.5,1.0,1.0,0.25,0.25,0.25,0.25,29.166666666666668,29.2
+8.2 kodningskänslighet,Konvex,Moderaterna,1.0,0.5625,1.0,1.0,0.25,0.25,0.25,0.25,22.265625,22.3
+8.2 kodningskänslighet,4→1 bas,Kristdemokraterna,1.5,2.0,2.0,2.0,0.25,0.25,0.25,0.25,46.875,46.9
+8.2 kodningskänslighet,3→0 linjär,Kristdemokraterna,0.5,1.0,1.0,1.0,0.25,0.25,0.25,0.25,29.166666666666668,29.2
+8.2 kodningskänslighet,Konvex,Kristdemokraterna,0.5625,1.0,1.0,1.0,0.25,0.25,0.25,0.25,22.265625,22.3
+8.2 kodningskänslighet,4→1 bas,Sverigedemokraterna,1.0,1.0,1.0,1.0,0.25,0.25,0.25,0.25,25.0,25.0
+8.2 kodningskänslighet,3→0 linjär,Sverigedemokraterna,0.0,0.0,0.0,0.0,0.25,0.25,0.25,0.25,0.0,0.0
+8.2 kodningskänslighet,Konvex,Sverigedemokraterna,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,6.25,6.2
