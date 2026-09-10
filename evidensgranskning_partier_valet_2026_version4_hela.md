@@ -3,7 +3,7 @@
 ## Svenska riksdagspartiers politik inför valet 2026
 
 **Skola · sjukvård · brott · klimat**  
-**Version 3.0 – reviderad evidens- och mekanismanalys**  
+**Version 4.0 – reviderad evidens- och mekanismanalys**  
 **7 september 2026**
 
 
